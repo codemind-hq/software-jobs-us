@@ -4,10 +4,13 @@
 
 DevOps / SRE jobs open to people in the US: remote, hybrid and on-site.
 
-653 jobs from the last 7 days, newest first. Updated 2026-11-24 07:27 UTC.
+654 jobs from the last 7 days, newest first. Updated 2026-11-24 12:00 UTC.
 
 | Job | Location | Pay | Posted | Links |
 |:--|:--|:--|:--:|:--|
+| **Infrastructure Systems Administrator**<br>Axiomspace<br>Linux, Windows Server, Active Directory, DNS | Houston, TX · On-site | — | 6d | [Details & Match](https://jobs.codemind.site/jobs/infrastructure-systems-administrator-axiomspace-6afcb2f91f1f6b21b5b2aa51?utm_source=github-software-us)<br>[Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Infrastructure-Systems-Administrator_JR100925-1) |
+| **Senior Site Reliability Engineer**<br>Blue Origin<br>Go, Python, JavaScript, CI/CD | Greater Seattle Area · On-site | $198K–$277K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-site-reliability-engineer-blue-origin-6afcb2a31f1f6b21b5b290ca?utm_source=github-software-us)<br>[Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Senior-Software-Development-Engineer_R69496-1) |
+| **Platform Engineer Lead**<br>Capgroup<br>Terraform, CDK, Go, Python | Charlotte, NC · On-site | $154K–$246K | 6d | [Details & Match](https://jobs.codemind.site/jobs/platform-engineer-lead-capgroup-6afcb2911f1f6b21b5b28dca?utm_source=github-software-us)<br>[Apply](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/Platform-Engineer-Lead_JR6888) |
 | **Cloud Computing Infrastructure Architect, Lead**<br>Bah<br>AWS, Azure, Kubernetes, Containerization | Washington, DC · On-site | $113K–$257K | 6d | [Details & Match](https://jobs.codemind.site/jobs/cloud-computing-infrastructure-architect-lead-bah-6afcb28c1f1f6b21b5b28d06?utm_source=github-software-us)<br>[Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Cloud-Computing-Infrastructure-Architect--Lead_R0253342) |
 | **IT Server Engineer**<br>Specialty1 Partners<br>Hyper-V, Azure, AWS, VMware | Houston, TX · On-site | $85K–$95K | 6d | [Details & Match](https://jobs.codemind.site/jobs/it-server-engineer-specialty1-partners-6b040baee8bbc1926c8aca1a?utm_source=github-software-us)<br>[Apply](https://job-boards.greenhouse.io/specialty1/jobs/4730304006) |
 | **Cyber Software Engineer**<br>Lockheed Martin<br>C++, Python, Kubernetes, CUDA | Fort Meade, MD · On-site | $91K–$169K | 6d | [Details & Match](https://jobs.codemind.site/jobs/cyber-software-engineer-lockheed-martin-6afcbe921f1f6b21b5b3a2f9?utm_source=github-software-us)<br>[Apply](https://lockheedmartin.eightfold.ai/careers/job/996477933490) |
@@ -59,8 +62,6 @@ DevOps / SRE jobs open to people in the US: remote, hybrid and on-site.
 | **DevOps Engineer**<br>Bah<br>GitHub, GitHub Actions, Azure, Docker | McLean, VA · On-site | $62K–$141K | 6d | [Details & Match](https://jobs.codemind.site/jobs/devops-engineer-bah-6afc618a1f1f6b21b5abcf64?utm_source=github-software-us)<br>[Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0246681) |
 | **Senior Google Workspace Deployment Engineer**<br>66degrees<br>Onedrive, SCIM, Python, PowerShell | US · On-site | — | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-google-workspace-deployment-engineer-66degrees-6afc8eab1f1f6b21b5af82ca?utm_source=github-software-us)<br>[Apply](https://job-boards.greenhouse.io/66degrees/jobs/6228343004) |
 | **Platform Engineer / DevOps Engineer, GCP &amp; Azure DevOps**<br>Qi Network - Google Cloud Premier Partner<br>GCP, Azure DevOps | Remote (US) | — | 6d | [Details & Match](https://jobs.codemind.site/jobs/platform-engineer-devops-engineer-gcp-azure-devops-qi-network-google-cloud-premi-6afd9ea47a048bc71c0e093c?utm_source=github-software-us)<br>[Apply](https://qinetwork.vagas.solides.com.br/vaga/954910) |
-| **Information Technology: Infrastructure Administrator**<br>canfield scientific<br>Windows Server, Active Directory, VMware, Azure | Parsippany, NJ · On-site | $85K–$115K | 6d | [Details & Match](https://jobs.codemind.site/jobs/information-technology-infrastructure-administrator-canfield-scientific-6afc306e1f1f6b21b5a832bf?utm_source=github-software-us)<br>[Apply](https://www.canfieldsci.com/careers/jobs/information-technology-infrastructure-administrator/) |
-| **Implementation Engineer**<br>Broadridge<br>Linux, Bash, XML, SFTP | Hyderabad, HI · On-site | — | 6d | [Details & Match](https://jobs.codemind.site/jobs/implementation-engineer-broadridge-6afc22101f1f6b21b5a75e50?utm_source=github-software-us)<br>[Apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Hyderabad-Hi-Tec-City/Implementation-Engineer_JR1085787) |
 
 [← Previous](devops-6.md) · Page 7 of 7
 

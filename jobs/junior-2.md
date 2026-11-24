@@ -4,10 +4,11 @@
 
 Junior jobs open to people in the US: remote, hybrid and on-site.
 
-118 jobs from the last 7 days, newest first. Updated 2026-11-24 07:27 UTC.
+119 jobs from the last 7 days, newest first. Updated 2026-11-24 12:00 UTC.
 
 | Job | Location | Pay | Posted | Links |
 |:--|:--|:--|:--:|:--|
+| **Junior Mission Planning Engineer**<br>Saalex | Lexington, MD · On-site | $65K–$95K | 6d | [Details & Match](https://jobs.codemind.site/jobs/junior-mission-planning-engineer-saalex-6afcd0d81f1f6b21b5b4e870?utm_source=github-software-us)<br>[Apply](https://apply.workable.com/saalex/j/27F142BCA3) |
 | **Junior-Mid Backend Software Engineer, TS/SCI with CI Poly - $95K-$180K + 15% 401k**<br>Millennial Software Solutions<br>Python, Java, Go, C# | Chantilly, VA · On-site | $95K–$180K | 6d | [Details & Match](https://jobs.codemind.site/jobs/junior-mid-backend-software-engineer-ts-sci-with-ci-poly-95k-180k-15-401k-millen-6afcf1ed1f1f6b21b5b708f3?utm_source=github-software-us)<br>[Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3821771) |
 | **Junior-Mid Full Stack Developer, TS/SCI with CI Poly - $95K-$180K + 15% 401k**<br>Millennial Software Solutions<br>Python, Java, Go, C# | Chantilly, VA · On-site | $95K–$180K | 6d | [Details & Match](https://jobs.codemind.site/jobs/junior-mid-full-stack-developer-ts-sci-with-ci-poly-95k-180k-15-401k-millennial-6afcf1ed1f1f6b21b5b708fd?utm_source=github-software-us)<br>[Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3821625) |
 | **Enterprise AI Enablement Engineer I**<br>Qtsdatacenters<br>Microsoft Copilot, Power Platform, Power Automate, Automation | US · On-site | $96K–$144K | 6d | [Details & Match](https://jobs.codemind.site/jobs/enterprise-ai-enablement-engineer-i-qtsdatacenters-6afcc5f71f1f6b21b5b42c66?utm_source=github-software-us)<br>[Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/QTS/job/US-VA-Ashburn-1-DC1/Enterprise-AI-Enablement-Engineer-I_R2026-2498-1) |

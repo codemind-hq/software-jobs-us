@@ -4,10 +4,11 @@
 
 Manager jobs open to people in the US: remote, hybrid and on-site.
 
-7 jobs from the last 7 days, newest first. Updated 2026-11-24 07:27 UTC.
+8 jobs from the last 7 days, newest first. Updated 2026-11-24 12:00 UTC.
 
 | Job | Location | Pay | Posted | Links |
 |:--|:--|:--|:--:|:--|
+| **Managers, Software Engineering**<br>Tmobile<br>Java, Spring, Kubernetes, REST | Atlanta, GA · Hybrid | $179K–$184K | today | [Details & Match](https://jobs.codemind.site/jobs/managers-software-engineering-tmobile-6b053de117acd208ed7279c3?utm_source=github-software-us)<br>[Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Managers--Software-Engineering_REQ380055) |
 | **Supervisor, R&amp;D Software Engineering**<br>Broadcom<br>CI/CD, DevOps, TDD | US · On-site | $110K–$176K | today | [Details & Match](https://jobs.codemind.site/jobs/supervisor-r-d-software-engineering-broadcom-6b0484bb02dc7ef510fa8e62?utm_source=github-software-us)<br>[Apply](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Supervisor--R-D-Software-Engineering_R027944) |
 | **Managing Engineer, Web Application Firewall and Web Edge Protection**<br>Allstate | Remote (US) | $120K–$194K | today | [Details & Match](https://jobs.codemind.site/jobs/managing-engineer-web-application-firewall-and-web-edge-protection-remote-us-all-6b04741202dc7ef510f98068?utm_source=github-software-us)<br>[Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Managing-Engineer--Web-Application-Firewall-and-Web-Edge-Protection--Remote--US-_R37297-1) |
 | **SVP of Software Development**<br>AmeriSave<br>Java, TypeScript, Node.js, SQL | Remote (US) | $200K–$300K | 3d | [Details & Match](https://jobs.codemind.site/jobs/svp-of-software-development-amerisave-6b024769a6c01923e2fd626c?utm_source=github-software-us)<br>[Apply](https://apply.workable.com/amerisave/j/D66FCC557B) |

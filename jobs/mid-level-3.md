@@ -4,10 +4,12 @@
 
 Mid-level jobs open to people in the US: remote, hybrid and on-site.
 
-209 jobs from the last 7 days, newest first. Updated 2026-11-24 07:27 UTC.
+211 jobs from the last 7 days, newest first. Updated 2026-11-24 12:00 UTC.
 
 | Job | Location | Pay | Posted | Links |
 |:--|:--|:--|:--:|:--|
+| **Software Engineer II, Support AI**<br>Toast<br>Java, Kotlin, Claude | Remote (US) | $104K–$213K | 6d | [Details & Match](https://jobs.codemind.site/jobs/software-engineer-ii-support-ai-toast-6afcd1741f1f6b21b5b4f4b7?utm_source=github-software-us)<br>[Apply](https://careers.toasttab.com/jobs?gh_jid=8386144) |
+| **Data Engineer II, Data Core**<br>Yes Energy<br>Snowflake, SQL, Python, AWS | Boston, IL · Hybrid | $90K–$136K | 6d | [Details & Match](https://jobs.codemind.site/jobs/data-engineer-ii-data-core-yes-energy-6afcfba31f1f6b21b5b7af83?utm_source=github-software-us)<br>[Apply](https://job-boards.greenhouse.io/yesenergy/jobs/5485712008) |
 | **Software Engineer II with MongoDB and Java experience**<br>Mutual of Omaha<br>MongoDB, Java, Spring, Mulesoft | Remote (US) | $120K–$135K | 6d | [Details & Match](https://jobs.codemind.site/jobs/software-engineer-ii-with-mongodb-and-java-experience-mutual-of-omaha-6afd1fff3858506dce541aa7?utm_source=github-software-us)<br>[Apply](https://secure.dc4.pageuppeople.com/apply/823/gateway/default.aspx?c=apply&lJobID=505389&lJobSourceTypeID=798&sLanguage=en-us) |
 | **Engineer II, Cloud**<br>Carmax<br>Kubernetes, Terraform, GitHub, Hyper-V | Dallas Technology, TX · Hybrid | $92K–$138K | 6d | [Details & Match](https://jobs.codemind.site/jobs/engineer-ii-cloud-carmax-6afcb5cc1f1f6b21b5b2e0de?utm_source=github-software-us)<br>[Apply](https://carmax.wd1.myworkdayjobs.com/External/job/TX---Dallas-Technology/Engineer-II--Cloud_JR-189688) |
 | **Software Engineer II - Java Fullstack / AWS**<br>JPMorgan Chase<br>Java, REST, Microservices, CI/CD | Austin, TX · On-site | — | 6d | [Details & Match](https://jobs.codemind.site/jobs/software-engineer-ii-java-fullstack-aws-jpmorgan-chase-6afca6881f1f6b21b5b18ee9?utm_source=github-software-us)<br>[Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805861) |

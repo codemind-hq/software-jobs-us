@@ -4,10 +4,12 @@
 
 Software Engineer jobs open to people in the US: remote, hybrid and on-site.
 
-442 jobs from the last 7 days, newest first. Updated 2026-11-24 07:27 UTC.
+444 jobs from the last 7 days, newest first. Updated 2026-11-24 12:00 UTC.
 
 | Job | Location | Pay | Posted | Links |
 |:--|:--|:--|:--:|:--|
+| **Developer Evangelist**<br>Twilio<br>Python, PHP, C#, .NET | Remote (US) | $131K–$193K | 6d | [Details & Match](https://jobs.codemind.site/jobs/developer-evangelist-twilio-6afcc8091f1f6b21b5b44be3?utm_source=github-software-us)<br>[Apply](https://job-boards.greenhouse.io/twilio/jobs/8396809) |
+| **Cyber Software Engineer**<br>CACI International<br>Python, C++, Networking, Distributed Systems | Florham Park, NJ · On-site | $79K–$163K | 6d | [Details & Match](https://jobs.codemind.site/jobs/cyber-software-engineer-caci-international-inc-6afcbda01f1f6b21b5b39214?utm_source=github-software-us)<br>[Apply](https://caci.wd1.myworkdayjobs.com/External/job/Florham-Park-NJ-US/Cyber-Software-Engineer_330859) |
 | **Senior FLS PE – Software Diagnostics (JG8)**<br>Asml<br>Python, MATLAB, LabVIEW | Wilton, CT · On-site | $105K–$191K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-fls-pe-software-diagnostics-jg8-asml-6afcbb171f1f6b21b5b34b5a?utm_source=github-software-us)<br>[Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Senior-FLS-PE---Software-Diagnostics--JG8-_J-00350869-1) |
 | **Photonic Layout Engineer**<br>HyperLight<br>Python, Cadence Virtuoso | Remote (US) | $100K–$180K | 6d | [Details & Match](https://jobs.codemind.site/jobs/photonic-layout-engineer-hyperlight-6afcb9fe1f1f6b21b5b335a7?utm_source=github-software-us)<br>[Apply](https://apply.workable.com/hyperlight/j/4B3F089F9B) |
 | **Media-IP SoC Performance Engineer, Platform Architecture**<br>Apple<br>C++, Python, Lua, Data Analytics | Cupertino, CA · On-site | $129K–$225K | 6d | [Details & Match](https://jobs.codemind.site/jobs/media-ip-soc-performance-engineer-platform-architecture-apple-6afcbdca1f1f6b21b5b396d0?utm_source=github-software-us)<br>[Apply](https://jobs.apple.com/en-us/details/200695477-0836/media-ip-soc-performance-engineer-platform-architecture) |
