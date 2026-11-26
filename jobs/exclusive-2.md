@@ -4,12 +4,22 @@
 
 Discover exclusive job opportunities available to CodeMind members. [Create a free account](https://jobs.codemind.site/register?utm_source=github-software-us) to unlock employer details.
 
-183 jobs from the last 7 days, newest first. Updated 2026-11-26 00:00 UTC.
+188 jobs from the last 7 days, newest first. Updated 2026-11-26 12:00 UTC.
 
 | Job | Location | Salary | Posted | Links |
 |:--|:--|:--|:--:|:--|
-| **Infrastructure Migration Engineer (travel and remote) Secret clearance**<br>VMware, Networking | Remote (US) | $110K–$150K | 1d | [View Job](https://jobs.codemind.site/jobs/infrastructure-migration-engineer-travel-and-remote-secret-clearance-6b06444c1f51b98df40a663f?utm_source=github-software-us) |
-| **Test Engineer**<br>Jira, Jenkins, GitHub Actions, Confluence | Remote (US) | $75K–$85K | 1d | [View Job](https://jobs.codemind.site/jobs/test-engineer-6b062c821f51b98df4088d36?utm_source=github-software-us) |
+| **Lead Engineer - Travel FX App**<br>API, Distributed Systems, Observability, Prototyping | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/lead-engineer-travel-fx-app-6b0563ea17acd208ed7571d5?utm_source=github-software-us) |
+| **Engineering Lead**<br>Distributed Systems, API | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/engineering-lead-6b0563eb17acd208ed7572a8?utm_source=github-software-us) |
+| **Staff Software Engineer**<br>Distributed Systems, API, Observability | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/staff-software-engineer-6b0563e717acd208ed75703c?utm_source=github-software-us) |
+| **Principal Software Engineer**<br>Distributed Systems, API | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/principal-software-engineer-6b0563e917acd208ed7571a4?utm_source=github-software-us) |
+| **Principal Statistical Programmer FSP**<br>SAS | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/principal-statistical-programmer-fsp-6b05696a17acd208ed75d273?utm_source=github-software-us) |
+| **Automation Engineer - Development (Tridium)**<br>Modbus | Remote (US) | $120K–$140K | 2d | [View Job](https://jobs.codemind.site/jobs/automation-engineer-development-tridium-6b0679b61f51b98df412c359?utm_source=github-software-us) |
+| **DevOps Engineer, Senior**<br>Java, Spring, Kubernetes, OpenShift | Remote (US) | $131K–$134K | 2d | [View Job](https://jobs.codemind.site/jobs/devops-engineer-senior-6b0650fe1f51b98df40bce80?utm_source=github-software-us) |
+| **Senior SQL Developer (Azure &amp; Snowflake)**<br>Azure, Snowflake, GitHub, Azure Data Factory | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/senior-sql-developer-azure-snowflake-6b04ee4902dc7ef51001c86a?utm_source=github-software-us) |
+| **Python Developer (Azure ETL)**<br>Python, SQL Server, API, Azure Functions | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/python-developer-azure-etl-6b04ee4902dc7ef51001c85c?utm_source=github-software-us) |
+| **Machine Learning Engineer (PySpark &amp; AI)**<br>Python, Spark, PySpark, SQL | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/machine-learning-engineer-pyspark-ai-6b04ee4902dc7ef51001c852?utm_source=github-software-us) |
+| **Full Stack Developer (React &amp; C#)**<br>SQL Server, .NET, C#, React | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/full-stack-developer-react-c-6b04ee4902dc7ef51001c84c?utm_source=github-software-us) |
+| **Infrastructure Migration Engineer (travel and remote) Secret clearance**<br>VMware, Networking | Remote (US) | $110K–$150K | 2d | [View Job](https://jobs.codemind.site/jobs/infrastructure-migration-engineer-travel-and-remote-secret-clearance-6b06444c1f51b98df40a663f?utm_source=github-software-us) |
 | **Platform Software Engineer**<br>Java, Spring, Python, Node.js | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/platform-software-engineer-6b04cd4802dc7ef510ff73ba?utm_source=github-software-us) |
 | **Quality Assurance Engineer - Automation**<br>Playwright, Appium, JavaScript, TypeScript | Remote (US) | $130K–$160K | 2d | [View Job](https://jobs.codemind.site/jobs/quality-assurance-engineer-automation-6b04e87f02dc7ef510015655?utm_source=github-software-us) |
 | **Senior Systems Engineer**<br>PowerShell, SCCM, DNS, DHCP | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/senior-systems-engineer-6b04c4c602dc7ef510fef3a5?utm_source=github-software-us) |
@@ -37,15 +47,15 @@ Discover exclusive job opportunities available to CodeMind members. [Create a fr
 | **Lead Platform Engineer**<br>Python, PostgreSQL, Kubernetes, CI/CD | Remote (US) | — | 2d | [View Job](https://jobs.codemind.site/jobs/lead-platform-engineer-6b04372b02dc7ef510f46392?utm_source=github-software-us) |
 | **Power BI Developer**<br>Power BI, Power Query, SQL, Snowflake | Remote (US) | $95K–$115K | 2d | [View Job](https://jobs.codemind.site/jobs/power-bi-developer-6b0580cd17acd208ed77bf95?utm_source=github-software-us) |
 | **Data Engineer II**<br>Snowflake, SQL, dbt, Airflow | Remote (US) | $108K–$128K | 2d | [View Job](https://jobs.codemind.site/jobs/data-engineer-ii-6b0580cd17acd208ed77bf81?utm_source=github-software-us) |
-| **Math Programmer (Lean 4)** | Remote (US) | $60–$120/hr | 2d | [View Job](https://jobs.codemind.site/jobs/math-programmer-lean-4-6b04267e02dc7ef510f2e5fb?utm_source=github-software-us) |
-| **Senior Platform Engineer**<br>Kubernetes, Ansible, GitOps, CI/CD | Remote (US) | $130K–$200K | 2d | [View Job](https://jobs.codemind.site/jobs/senior-platform-engineer-6b046a2d02dc7ef510f8e7b6?utm_source=github-software-us) |
-| **.NET Developer**<br>C#, Visual Studio, GitHub, SDLC | Remote (US) | $130K–$145K | 2d | [View Job](https://jobs.codemind.site/jobs/net-developer-6b04dc0902dc7ef510007e5d?utm_source=github-software-us) |
-| **API Developer**<br>C#, .NET, Java, REST | Remote (US) | $130K–$145K | 2d | [View Job](https://jobs.codemind.site/jobs/api-developer-6b04dc0902dc7ef510007e62?utm_source=github-software-us) |
-| **ColdFusion Developer**<br>Linux, GitHub | Remote (US) | $130K–$145K | 2d | [View Job](https://jobs.codemind.site/jobs/coldfusion-developer-6b04dc0902dc7ef510007e67?utm_source=github-software-us) |
+| **Math Programmer (Lean 4)** | Remote (US) | $60–$120/hr | 3d | [View Job](https://jobs.codemind.site/jobs/math-programmer-lean-4-6b04267e02dc7ef510f2e5fb?utm_source=github-software-us) |
+| **Senior Platform Engineer**<br>Kubernetes, Ansible, GitOps, CI/CD | Remote (US) | $130K–$200K | 3d | [View Job](https://jobs.codemind.site/jobs/senior-platform-engineer-6b046a2d02dc7ef510f8e7b6?utm_source=github-software-us) |
+| **.NET Developer**<br>C#, Visual Studio, GitHub, SDLC | Remote (US) | $130K–$145K | 3d | [View Job](https://jobs.codemind.site/jobs/net-developer-6b04dc0902dc7ef510007e5d?utm_source=github-software-us) |
+| **API Developer**<br>C#, .NET, Java, REST | Remote (US) | $130K–$145K | 3d | [View Job](https://jobs.codemind.site/jobs/api-developer-6b04dc0902dc7ef510007e62?utm_source=github-software-us) |
+| **ColdFusion Developer**<br>Linux, GitHub | Remote (US) | $130K–$145K | 3d | [View Job](https://jobs.codemind.site/jobs/coldfusion-developer-6b04dc0902dc7ef510007e67?utm_source=github-software-us) |
 | **Senior Fullstack Engineer, Agentic Experience**<br>Node.js, Python, React, TypeScript | Remote (US) | CA$132k–165k | 3d | [View Job](https://jobs.codemind.site/jobs/senior-fullstack-engineer-agentic-experience-6b035e2da6c01923e20e1fff?utm_source=github-software-us) |
 | **ARCHITECT QUALITY ASSURANCE**<br>C, Java, Python, Jira | Remote (US) | $144K–$145K | 4d | [View Job](https://jobs.codemind.site/jobs/architect-quality-assurance-6b021e49a6c01923e2fbb92f?utm_source=github-software-us) |
 | **Senior Unified Data Semantic Engineer**<br>Python, Scala, Java, Databricks | Remote (US) | — | 4d | [View Job](https://jobs.codemind.site/jobs/senior-unified-data-semantic-engineer-6b01c878a6c01923e2f7f052?utm_source=github-software-us) |
-| **Software Engineer**<br>Python, Django, MySQL, PostgreSQL | Remote (US) | $130K–$150K | 4d | [View Job](https://jobs.codemind.site/jobs/software-engineer-6b015789a6c01923e2f0392c?utm_source=github-software-us) |
+| **Software Engineer**<br>Python, Django, MySQL, PostgreSQL | Remote (US) | $130K–$150K | 5d | [View Job](https://jobs.codemind.site/jobs/software-engineer-6b015789a6c01923e2f0392c?utm_source=github-software-us) |
 | **AI Engineer IV**<br>Claude Code, Prompt Engineering, RAG, Test Automation | Remote (US) | $159K–$200K | 5d | [View Job](https://jobs.codemind.site/jobs/ai-engineer-iv-6b00c169a6c01923e2e86aca?utm_source=github-software-us) |
 | **Security Engineer III**<br>Python, PowerShell, Bash, SIEM | Remote (US) | $125K–$139K | 5d | [View Job](https://jobs.codemind.site/jobs/security-engineer-iii-6b00d976a6c01923e2e9ade0?utm_source=github-software-us) |
 | **Cloud &amp; Devops Architect**<br>Azure, GitLab, AKS, Infrastructure as Code | Remote (US) | $140K–$162K | 5d | [View Job](https://jobs.codemind.site/jobs/cloud-devops-architect-6b011949a6c01923e2ecf4d9?utm_source=github-software-us) |
@@ -64,12 +74,11 @@ Discover exclusive job opportunities available to CodeMind members. [Create a fr
 | **Senior Software Engineer, API**<br>Ruby, Rails, API, PostgreSQL | Remote (US) | $140K–$170K | 5d | [View Job](https://jobs.codemind.site/jobs/senior-software-engineer-api-6b00ade0a6c01923e2e71e15?utm_source=github-software-us) |
 | **Product Analytics Engineer**<br>dbt, Redshift, SQL, Data Visualization | Remote (US) | — | 5d | [View Job](https://jobs.codemind.site/jobs/product-analytics-engineer-6b00c6e3a6c01923e2e8b03f?utm_source=github-software-us) |
 | **Sr. Deployment Engineer**<br>C++, Python, Linux, Networking | Remote (US) | — | 5d | [View Job](https://jobs.codemind.site/jobs/sr-deployment-engineer-6b03d8fc400a990b3b18f817?utm_source=github-software-us) |
-| **Microsoft 365 GCC High Security Engineer**<br>Intune, PowerShell | Remote (US) | $60/hr | 5d | [View Job](https://jobs.codemind.site/jobs/microsoft-365-gcc-high-security-engineer-6b06c6251f51b98df41877a5?utm_source=github-software-us) |
-| **Software Engineer**<br>C++, Python, Embedded Systems | Remote (US) | $100K–$160K | 5d | [View Job](https://jobs.codemind.site/jobs/software-engineer-6b00250e5ea47809bd9dc8f5?utm_source=github-software-us) |
-| **Technical Implementation Associate &amp; Jr. Engineer** | Remote (US) | — | 5d | [View Job](https://jobs.codemind.site/jobs/technical-implementation-associate-jr-engineer-6b00250c5ea47809bd9dc7ac?utm_source=github-software-us) |
-| **Senior Full-Stack Engineer, Fortary**<br>TypeScript, React, REST, PostgreSQL | Remote (US) | $143K–$179K | 5d | [View Job](https://jobs.codemind.site/jobs/senior-full-stack-engineer-fortary-6b018287a6c01923e2f30958?utm_source=github-software-us) |
-| **Senior HPC Platform Engineer**<br>Linux, Ansible, Git | Remote (US) | $160K–$220K | 5d | [View Job](https://jobs.codemind.site/jobs/senior-hpc-platform-engineer-6affaf91aa4e7eef544b8aec?utm_source=github-software-us) |
-| **VITA - Cybersecurity Engineer 3 (Remote VA)** | Remote (US) | — | 5d | [View Job](https://jobs.codemind.site/jobs/vita-cybersecurity-engineer-3-remote-va-6aff9fb7aa4e7eef544acaf7?utm_source=github-software-us) |
+| **Microsoft 365 GCC High Security Engineer**<br>Intune, PowerShell | Remote (US) | $60/hr | 6d | [View Job](https://jobs.codemind.site/jobs/microsoft-365-gcc-high-security-engineer-6b06c6251f51b98df41877a5?utm_source=github-software-us) |
+| **Technical Implementation Associate &amp; Jr. Engineer** | Remote (US) | — | 6d | [View Job](https://jobs.codemind.site/jobs/technical-implementation-associate-jr-engineer-6b00250c5ea47809bd9dc7ac?utm_source=github-software-us) |
+| **Senior Full-Stack Engineer, Fortary**<br>TypeScript, React, REST, PostgreSQL | Remote (US) | $143K–$179K | 6d | [View Job](https://jobs.codemind.site/jobs/senior-full-stack-engineer-fortary-6b018287a6c01923e2f30958?utm_source=github-software-us) |
+| **Senior HPC Platform Engineer**<br>Linux, Ansible, Git | Remote (US) | $160K–$220K | 6d | [View Job](https://jobs.codemind.site/jobs/senior-hpc-platform-engineer-6affaf91aa4e7eef544b8aec?utm_source=github-software-us) |
+| **VITA - Cybersecurity Engineer 3 (Remote VA)** | Remote (US) | — | 6d | [View Job](https://jobs.codemind.site/jobs/vita-cybersecurity-engineer-3-remote-va-6aff9fb7aa4e7eef544acaf7?utm_source=github-software-us) |
 | **Senior Software Engineer, Data**<br>Python, SQL, Data Pipelines, Machine Learning | Remote (North America) | — | 6d | [View Job](https://jobs.codemind.site/jobs/senior-software-engineer-data-6b004245a6c01923e2df1d97?utm_source=github-software-us) |
 | **Senior Software Engineer, Agent Development**<br>Python | Remote (North America) | — | 6d | [View Job](https://jobs.codemind.site/jobs/senior-software-engineer-agent-development-6b00421ba6c01923e2df0ac2?utm_source=github-software-us) |
 | **Sr. Generative AI Engineer**<br>Python, LangChain, LangGraph, Prompt Engineering | Remote (US) | — | 6d | [View Job](https://jobs.codemind.site/jobs/sr-generative-ai-engineer-6aff937eaa4e7eef544a2a5e?utm_source=github-software-us) |
@@ -87,14 +96,10 @@ Discover exclusive job opportunities available to CodeMind members. [Create a fr
 | **Data and Analytics Engineer**<br>Microsoft Fabric, Databricks, Spark, Delta Lake | Remote (US) | — | 6d | [View Job](https://jobs.codemind.site/jobs/data-and-analytics-engineer-6aff423aaa4e7eef54451237?utm_source=github-software-us) |
 | **Software Engineer I**<br>JavaScript, TypeScript, Angular, HTML | Remote (US) | — | 6d | [View Job](https://jobs.codemind.site/jobs/software-engineer-i-6aff5d4daa4e7eef5446bead?utm_source=github-software-us) |
 | **Frontend Engineer**<br>JavaScript, TypeScript, HTML, CSS | Remote (US) | — | 6d | [View Job](https://jobs.codemind.site/jobs/frontend-engineer-6b06d7401f51b98df419efd3?utm_source=github-software-us) |
-| **Sr. Cybersecurity GRC Engineer**<br>CMMC | Remote (US) | $124K–$228K | 6d | [View Job](https://jobs.codemind.site/jobs/sr-cybersecurity-grc-engineer-6affcfe9aa4e7eef544cf58a?utm_source=github-software-us) |
-| **Analytics Engineer**<br>Snowflake, SQL, Power BI, Python | Remote (US) | — | 6d | [View Job](https://jobs.codemind.site/jobs/analytics-engineer-6affbaddaa4e7eef544c09bd?utm_source=github-software-us) |
-| **Security Engineer**<br>Bash, Python, PowerShell, Active Directory | Remote (US) | $90K–$110K | 6d | [View Job](https://jobs.codemind.site/jobs/security-engineer-6b004219a6c01923e2df09fa?utm_source=github-software-us) |
-| **Senior/Staff Software Engineer, Search &amp; Retrieval Infrastructure**<br>Go, Rust, C++, Java | Remote (US) | $190K–$270K | 6d | [View Job](https://jobs.codemind.site/jobs/senior-staff-software-engineer-search-retrieval-infrastructure-6afe60127a048bc71c1b445f?utm_source=github-software-us) |
 
 [← Previous](exclusive.md) · Page 2 of 2
 
-**[Browse All 61,833 US Jobs →](https://jobs.codemind.site/jobs-in/united-states?utm_source=github-software-us)** · **[Check Your Resume for Free →](https://jobs.codemind.site/ats-checker?utm_source=github-software-us)**
+**[Browse All 61,559 US Jobs →](https://jobs.codemind.site/jobs-in/united-states?utm_source=github-software-us)** · **[Check Your Resume for Free →](https://jobs.codemind.site/ats-checker?utm_source=github-software-us)**
 
 ---
 
