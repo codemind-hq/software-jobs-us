@@ -1,13 +1,17 @@
 # Senior software jobs in the US
 
-[← All jobs](../README.md) · [← Previous](senior-10.md) · Page 11 of 13 · [Next →](senior-12.md)
+[← All jobs](../README.md) · [← Previous](senior-10.md) · Page 11 of 12 · [Next →](senior-12.md)
 
 Senior jobs open to people in the US: remote, hybrid and on-site.
 
-1,247 jobs from the last 7 days, newest first. Updated 2026-11-27 00:00 UTC.
+1,135 jobs from the last 7 days, newest first. Updated 2026-11-27 12:00 UTC.
 
 | Job | Location | Salary | Posted | Links |
 |:--|:--|:--|:--:|:--|
+| **Senior Platform Security Engineer**<br>Function Health<br>Kubernetes, GKE, RBAC, Istio | Remote (US) | — | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-platform-security-engineer-function-health-6b00f6b5a6c01923e2eb3da2?utm_source=github-software-us)<br>[Apply Directly](https://jobs.gem.com/function-health/am9icG9zdDrOCG_iBYDe3FO0bL7gSxHF) |
+| **AI Platform Engineer (Irvine, Roseville, or Walnut Creek, CA)**<br>Mechanicsbank<br>Kubernetes, OpenShift, VLLM, GitOps | Irvine, CA · On-site | $128K–$185K | 6d | [Details & Match](https://jobs.codemind.site/jobs/ai-platform-engineer-irvine-roseville-or-walnut-creek-ca-mechanicsbank-6b00af48a6c01923e2e73d80?utm_source=github-software-us)<br>[Apply Directly](https://mechanicsbank.wd5.myworkdayjobs.com/MechanicsBank/job/Irvine-California/AI-Platform-Engineer--Irvine--Roseville--or-Walnut-Creek--CA-_R6430) |
+| **Senior Offensive Security Engineer**<br>Function Health<br>MITRE ATT&amp;CK, Okta, GCP, Kubernetes | Remote (US) | — | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-offensive-security-engineer-function-health-6b00f6b5a6c01923e2eb3d9c?utm_source=github-software-us)<br>[Apply Directly](https://jobs.gem.com/function-health/am9icG9zdDr36RiyIxZzNzcGk3B6emvX) |
+| **Senior WSD Developer (399)**<br>iTech AG<br>ServiceNow, AutoCAD | Remote (US) | $130K–$165K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-wsd-developer-399-itech-ag-6b00adf9a6c01923e2e723c6?utm_source=github-software-us)<br>[Apply Directly](https://jobs.jobvite.com/itechag/job/ohb8AfwU) |
 | **Senior Platform Software Engineer (OCI - Developer Platform)**<br>Eeho<br>Java, Go, C++, C# | Nashville, TN · On-site | $93K–$210K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-platform-software-engineer-oci-developer-platform-eeho-6b00b581a6c01923e2e7a7b8?utm_source=github-software-us)<br>[Apply Directly](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342715) |
 | **SI Data Engineering SME**<br>Blue Sky Innovators<br>Java, Linux, Python, Ruby | Chantilly, VA · On-site | $85K–$185K | 6d | [Details & Match](https://jobs.codemind.site/jobs/si-data-engineering-sme-blue-sky-innovators-6b00e3d2a6c01923e2ea45e2?utm_source=github-software-us)<br>[Apply Directly](https://job-boards.greenhouse.io/blueskyinnovators/jobs/5491269008) |
 | **Senior Test Engineer**<br>Centegix<br>Python, Git, Altium, CI/CD | Annapolis, MD · Hybrid | $130K–$150K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-test-engineer-centegix-6b02de68a6c01923e2062279?utm_source=github-software-us)<br>[Apply Directly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4616178) |
@@ -104,14 +108,10 @@ Senior jobs open to people in the US: remote, hybrid and on-site.
 | **Senior Ground Segment Systems Engineer**<br>SAIC<br>SDLC, Agile, Virtualization, SYSML | El Segundo, CA · On-site | — | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-ground-segment-systems-engineer-saic-6b0082b3a6c01923e2e3cfeb?utm_source=github-software-us)<br>[Apply Directly](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619336) |
 | **Senior Software Engineer**<br>Kuvare Holdings<br>COBOL, C#, SQL, API | Cedar Rapids, IA +3 · On-site | $110K–$120K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-software-engineer-kuvare-holdings-llc-6b00a708a6c01923e2e68dcd?utm_source=github-software-us)<br>[Apply Directly](https://ats.rippling.com/kuvare-jobs/jobs/444c3bea-ddcf-47c6-a043-d239a60df5d7) |
 | **Senior Software Engineer**<br>Asml | Wilton, CT · On-site | $113K–$207K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-software-engineer-asml-6b00772ba6c01923e2e30fc9?utm_source=github-software-us)<br>[Apply Directly](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Senior-Software-Engineer_J-00357985) |
-| **SR AI Analytics Developer**<br>Southern Glazer’s Wine and Spirits<br>Python, SQL, Databricks, PySpark | Miramar, FL · On-site | — | 6d | [Details & Match](https://jobs.codemind.site/jobs/sr-ai-analytics-developer-southern-glazer-s-wine-and-spirits-llc-6b01c878a6c01923e2f7f05c?utm_source=github-software-us)<br>[Apply Directly](https://recruiting.southernglazers.com/job/Miramar-SR-AI-Analytics-Developer-FL-33027/1452568900/) |
-| **Senior Database Engineer**<br>Bitwarden<br>SQL Server, PostgreSQL, MySQL, Datadog | Remote (US) | $150K–$210K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-database-engineer-bitwarden-6b00ade1a6c01923e2e71e6a?utm_source=github-software-us)<br>[Apply Directly](https://bitwarden.com/careers/8208623003/?gh_jid=8208623003) |
-| **Senior Security Fusion Center Engineer**<br>CCC Intelligent Solutions<br>Infrastructure as Code, API, Threat Hunting, PCI DSS | Remote (US) | $85K–$120K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-security-fusion-center-engineer-ccc-intelligent-solutions-6b007596a6c01923e2e2f5c7?utm_source=github-software-us)<br>[Apply Directly](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Senior-Security-Fusion-Center-Engineer_0015052) |
-| **Senior Observability Engineer - Platform and Telemetry**<br>CACI International<br>Kubernetes, OpenShift, Elasticsearch, Prometheus | Reston, VA +2 · On-site | $90K–$190K | 6d | [Details & Match](https://jobs.codemind.site/jobs/senior-observability-engineer-platform-and-telemetry-caci-international-inc-6b0073c9a6c01923e2e2d150?utm_source=github-software-us)<br>[Apply Directly](https://caci.wd1.myworkdayjobs.com/External/job/Reston-VA-US/Senior-Observability-Engineer---Platform-and-Telemetry_335275) |
 
-[← Previous](senior-10.md) · Page 11 of 13 · [Next →](senior-12.md)
+[← Previous](senior-10.md) · Page 11 of 12 · [Next →](senior-12.md)
 
-**[Browse All 61,570 US Jobs →](https://jobs.codemind.site/jobs-in/united-states?utm_source=github-software-us)** · **[Check Your Resume for Free →](https://jobs.codemind.site/ats-checker?utm_source=github-software-us)**
+**[Browse All 61,347 US Jobs →](https://jobs.codemind.site/jobs-in/united-states?utm_source=github-software-us)** · **[Check Your Resume for Free →](https://jobs.codemind.site/ats-checker?utm_source=github-software-us)**
 
 ---
 

@@ -1,13 +1,15 @@
 # Senior software jobs in the US
 
-[← All jobs](../README.md) · [← Previous](senior-3.md) · Page 4 of 13 · [Next →](senior-5.md)
+[← All jobs](../README.md) · [← Previous](senior-3.md) · Page 4 of 12 · [Next →](senior-5.md)
 
 Senior jobs open to people in the US: remote, hybrid and on-site.
 
-1,247 jobs from the last 7 days, newest first. Updated 2026-11-27 00:00 UTC.
+1,135 jobs from the last 7 days, newest first. Updated 2026-11-27 12:00 UTC.
 
 | Job | Location | Salary | Posted | Links |
 |:--|:--|:--|:--:|:--|
+| **Sr PAM Engineer**<br>SouthState Bank<br>PowerShell, Active Directory, SIEM | Remote (US) | $76K–$122K | 2d | [Details & Match](https://jobs.codemind.site/jobs/sr-pam-engineer-southstate-bank-6b06023d1f51b98df4048067?utm_source=github-software-us)<br>[Apply Directly](https://southstatebank.wd5.myworkdayjobs.com/External/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Sr-PAM-Engineer_R-06717) |
+| **Senior Full Stack Engineer**<br>Hasbro<br>Vue, React, TypeScript, GraphQL | Renton, WA · Hybrid | $133K–$213K | 2d | [Details & Match](https://jobs.codemind.site/jobs/senior-full-stack-engineer-hasbro-6b06262a1f51b98df407e3e8?utm_source=github-software-us)<br>[Apply Directly](https://job-boards.greenhouse.io/hasbro/jobs/4514015009) |
 | **Software Engineer Sr - Level 3 (Top Secret)**<br>Lockheed Martin<br>JavaScript, C#, Angular, React | King of Prussia, PA · On-site | $110K–$205K | 2d | [Details & Match](https://jobs.codemind.site/jobs/software-engineer-sr-level-3-top-secret-lockheed-martin-6b060c8d1f51b98df40595cc?utm_source=github-software-us)<br>[Apply Directly](https://lockheedmartin.eightfold.ai/careers/job/996478061230) |
 | **Senior Robotics Software Engineer**<br>Vecna Robotics<br>C++, Unity, Git, Machine Learning | Waltham, MA · On-site | $145K–$185K | 2d | [Details & Match](https://jobs.codemind.site/jobs/senior-robotics-software-engineer-vecna-robotics-6b0717fe1f51b98df4217d36?utm_source=github-software-us)<br>[Apply Directly](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d066998dd60166a3122fb873a0&id=8a7885aca1f5f45201a20f725ffe2671) |
 | **Senior DevOps Engineer - Edge &amp; Test Infrastructure**<br>ANA<br>Embedded Linux, Docker, Python, Bash | Henderson, NV · On-site | $145K–$185K | 2d | [Details & Match](https://jobs.codemind.site/jobs/senior-devops-engineer-edge-test-infrastructure-ana-6b061ad51f51b98df406f072?utm_source=github-software-us)<br>[Apply Directly](https://jobs.lever.co/ana-corp/a946b13e-5181-4b1b-90c0-cb15cd09271e/apply) |
@@ -106,12 +108,10 @@ Senior jobs open to people in the US: remote, hybrid and on-site.
 | **Senior AI Engineer, Agentic Applications**<br>Arrowstreet Capital<br>IAM, Networking, Lambda, ECS | Boston, MA · On-site | $200K–$325K | 2d | [Details & Match](https://jobs.codemind.site/jobs/senior-ai-engineer-agentic-applications-arrowstreet-capital-6b05cbc01f51b98df4fe7a47?utm_source=github-software-us)<br>[Apply Directly](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/job/Boston/Senior-AI-Engineer--Agentic-Applications_R1569) |
 | **Senior Software Engineer, Compute (Temporal Cloud)**<br>Temporal Technologies<br>Senior Software Engineer, Compute (Temporal Cloud) at Temporal Technologies. | Remote (US) | $141K–$231K | 2d | [Details & Match](https://jobs.codemind.site/jobs/senior-software-engineer-compute-temporal-cloud-temporal-technologies-6b060ed71f51b98df405cad9?utm_source=github-software-us)<br>[Apply Directly](https://jobs.ashbyhq.com/temporal/ba01bd3a-2b66-4fbb-b33c-8e0ac684df9a/application) |
 | **Senior Data Platform Engineer**<br>Mohegan US<br>Fivetran, Tableau, Power BI, Snowflake | Uncasville, CT · On-site | — | 2d | [Details & Match](https://jobs.codemind.site/jobs/senior-data-platform-engineer-mohegan-us-6b05cb561f51b98df4fe7172?utm_source=github-software-us)<br>[Apply Directly](https://mohegan.wd1.myworkdayjobs.com/Mohegan/job/Uncasville-CT/Senior-Data-Platform-Engineer_R-14527) |
-| **Senior DevOps Engineer - Tempus**<br>PNC Financial Services Group<br>DevOps, Linux, Virtualization, Terraform | Remote (US) | $86K–$173K | 2d | [Details & Match](https://jobs.codemind.site/jobs/senior-devops-engineer-tempus-pnc-financial-services-group-6b05efb41f51b98df40259b7?utm_source=github-software-us)<br>[Apply Directly](https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Senior-DevOps-Engineer---Tempus_R242056-2) |
-| **Senior Customer Engineer**<br>CloudFlare<br>Python, JavaScript, Bash, Lua | US · On-site | — | 2d | [Details & Match](https://jobs.codemind.site/jobs/senior-customer-engineer-cloudflare-6b06022b1f51b98df4047e29?utm_source=github-software-us)<br>[Apply Directly](https://boards.greenhouse.io/cloudflare/jobs/8395882?gh_jid=8395882) |
 
-[← Previous](senior-3.md) · Page 4 of 13 · [Next →](senior-5.md)
+[← Previous](senior-3.md) · Page 4 of 12 · [Next →](senior-5.md)
 
-**[Browse All 61,570 US Jobs →](https://jobs.codemind.site/jobs-in/united-states?utm_source=github-software-us)** · **[Check Your Resume for Free →](https://jobs.codemind.site/ats-checker?utm_source=github-software-us)**
+**[Browse All 61,347 US Jobs →](https://jobs.codemind.site/jobs-in/united-states?utm_source=github-software-us)** · **[Check Your Resume for Free →](https://jobs.codemind.site/ats-checker?utm_source=github-software-us)**
 
 ---
 
